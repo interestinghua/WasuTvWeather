@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">泉通气象</string>
+    <string name="str1">穿衣</string>
+    <string name="str2">洗衣</string>
+    <string name="str3">感冒</string>
+    <string name="str4">舒适</string>
+    <string name="str5">运动</string>
+    <string name="str6">洗车</string>
+    <string name="str7">火险</string>
+    <string name="str8">预警</string>
+    <string name="str9">暂无数据</string>
+    <string name="str10">无数据</string>
+
+    <string name="str11">台风专题</string>
+    <string name="str12">雾霾地图</string>
+    <string name="str13">交通气象</string>
+
+    <string name="str14">杭州</string>
+    <string name="str30">杭州市区</string>
+    <string name="str31">余杭区</string>
+    <string name="str32">萧山区</string>
+    <string name="str33">富阳区</string>
+    <string name="str34">建德市</string>
+    <string name="str35">临安市</string>
+    <string name="str36">桐庐县</string>
+    <string name="str37">淳安县</string>
+
+    <string name="str15">宁波</string>
+    <string name="str40">宁波市区</string>
+    <string name="str41">北仑区</string>
+    <string name="str42">镇海区</string>
+    <string name="str43">鄞州区</string>
+    <string name="str44">余姚市</string>
+    <string name="str45">慈溪市</string>
+    <string name="str46">奉化市</string>
+    <string name="str47">象山县</string>
+    <string name="str48">宁海县</string>
+
+    <string name="str16">温州</string>
+    <string name="str51">温州市区</string>
+    <string name="str52">瑞安市</string>
+    <string name="str53">乐清市</string>
+    <string name="str54">洞头县</string>
+    <string name="str55">永嘉县</string>
+    <string name="str56">平阳县</string>
+    <string name="str57">苍南县</string>
+    <string name="str58">文成县</string>
+    <string name="str59">泰顺县</string>
+
+    <string name="str17">绍兴</string>
+    <string name="str60">越城区</string>
+    <string name="str61">柯桥区</string>
+    <string name="str62">上虞区</string>
+    <string name="str63">诸暨市</string>
+    <string name="str64">嵊州市</string>
+    <string name="str65">新昌县</string>
+
+    <string name="str18">湖州</string>
+    <string name="str66">湖州市区</string>
+    <string name="str68">德清县</string>
+    <string name="str69">长兴县</string>
+    <string name="str70">安吉县</string>
+
+    <string name="str19">嘉兴</string>
+    <string name="str71">市区</string>
+    <string name="str73">海宁市</string>
+    <string name="str74">平湖市</string>
+    <string name="str75">桐乡市</string>
+    <string name="str76">嘉善县</string>
+    <string name="str77">海盐县</string>
+
+    <string name="str20">金华</string>
+    <string name="str78">金华市区</string>
+    <string name="str80">兰溪市</string>
+    <string name="str81">东阳市</string>
+    <string name="str82">永康市</string>
+    <string name="str83">义乌市</string>
+    <string name="str84">武义县</string>
+    <string name="str85">浦江县</string>
+    <string name="str86">磐安县</string>
+
+    <string name="str21">衢州</string>
+    <string name="str87">衢州市区</string>
+    <string name="str88">衢江区</string>
+    <string name="str89">江山市</string>
+    <string name="str90">常山县</string>
+    <string name="str91">开化县</string>
+    <string name="str92">龙游县</string>
+
+    <string name="str22">舟山</string>
+    <string name="str116">舟山市区</string>
+    <string name="str93">定海区</string>
+    <string name="str94">普陀区</string>
+    <string name="str95">岱山县</string>
+    <string name="str96">嵊泗县</string>
+
+    <string name="str23">台州</string>
+    <string name="str115">洪家</string>
+    <string name="str117">台州市区</string>
+    <string name="str97">椒江区</string>
+    <string name="str98">黄岩区</string>
+    <string name="str99">路桥区</string>
+    <string name="str100">温岭市</string>
+    <string name="str101">临海市</string>
+    <string name="str102">玉环县</string>
+    <string name="str103">三门县</string>
+    <string name="str104">天台县</string>
+    <string name="str105">仙居县</string>
+
+    <string name="str24">丽水</string>
+    <string name="str106">丽水市区</string>
+    <string name="str107">龙泉市</string>
+    <string name="str108">青田县</string>
+    <string name="str109">缙云县</string>
+    <string name="str110">遂昌县</string>
+    <string name="str111">松阳县</string>
+    <string name="str112">云和县</string>
+    <string name="str113">庆元县</string>
+    <string name="str114">景宁县</string>
+
+    <string name="str120">旅游景点</string>
+    <!--普陀山风景名胜区:10121110104A;
+    横店电影城:10121090402A;
+    南湖景区:10121030101A;
+    枫泾古镇:10121030201A;
+    西塘古镇:10121030202A;
+    西湖:10121010109A;
+    西溪国家湿地公园:10121010110A;
+    淳安县千岛湖风景区:10121010401A;
+    浙西大峡谷:10121010702A;
+    天目山风景区:10121010701A;
+    乌镇:10121020102A;
+    南浔古镇景区:10121020101A;
+    中南百草园:10121020302A-->
+
+    <string name="str121">普陀山风景名胜区</string>
+    <string name="str122">横店电影城</string>
+    <string name="str123">南湖景区</string>
+    <string name="str124">枫泾古镇</string>
+    <string name="str125">西塘古镇</string>
+    <string name="str126">西湖</string>
+    <string name="str127">西溪国家湿地公园</string>
+    <string name="str128">千岛湖风景区</string>
+    <string name="str129">浙西大峡谷</string>
+    <string name="str130">天目山风景区</string>
+    <string name="str131">乌镇</string>
+    <string name="str132">南浔古镇景区</string>
+    <string name="str133">中南百草园</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_wasu2">MainWasu2Activity</string>
+
+    <string name="wasu01">湿度</string>
+    <string name="wasu02">PM 2.5</string>
+    <string name="wasu03">气压</string>
+
+    <string name="wasu04">7天预报</string>
+    <string name="wasu05">分时预报</string>
+    <string name="wasu06">生活指数</string>
+    <string name="wasu07">高速气象</string>
+    <string name="wasu08">雾霾地图</string>
+    <string name="wasu09">台风专题</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--沈海高速台州段
+        沈海高速宁波段
+        沈海高速温州段
+        沈海高速杭州湾大桥
+        沈海高速嘉兴段
+
+        沪昆高速金华段
+        沪昆高速衢州段
+        沪昆高速嘉兴段
+        沪昆高速杭州段
+
+        申嘉湖高速湖州段
+        申嘉湖高速嘉善段
+
+        沪渝高速湖州段
+        -->
+    <string name="wasu10">沈海高速</string>
+    <string name="wasu11">沪昆高速</string>
+    <string name="wasu12">申嘉湖高速</string>
+    <string name="wasu13">沪渝高速</string>
+
+    <string name="wasu14">台州段</string>
+    <string name="wasu15">宁波段</string>
+    <string name="wasu16">温州段</string>
+    <string name="wasu17">杭州湾大桥</string>
+    <string name="wasu18">嘉兴段</string>
+    <string name="wasu19">金华段</string>
+    <string name="wasu20">衢州段</string>
+    <string name="wasu21">杭州段</string>
+    <string name="wasu22">湖州段</string>
+    <string name="wasu23">嘉善段</string>
+
+    <string name="index01">穿衣指数</string>
+    <string name="index02">感冒指数</string>
+    <string name="index03">化妆指数</string>
+    <string name="index04">太阳镜指数</string>
+    <string name="index05">紫外线指数</string>
+    <string name="index06">舒适度指数</string>
+    <string name="index07">旅游指数</string>
+    <string name="index08">运动指数</string>
+    <string name="index09">洗车指数</string>
+
+    <string name="tf01">名称</string>
+    <string name="tf02">类型</string>
+    <string name="tf03">时间</string>
+    <string name="tf04">编号</string>
+    <string name="tf05">方向</string>
+
+    <string name="tf06">中心气压</string>
+    <string name="tf07">中心风速</string>
+    <string name="tf08">经度</string>
+    <string name="tf09">纬度</string>
+    <string name="tf10">风速</string>
+
+    <string name="tf11">选择城市</string>
+    <string name="tf12">热门景点</string>
+
+    <string name="tips">气象数据转载于中央气象台网站</string>
+
+
+
+</resources>

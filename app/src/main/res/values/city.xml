@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cityArray">
+        <item>杭州</item>
+        <item>宁波</item>
+        <item>温州</item>
+        <item>绍兴</item>
+        <item>湖州</item>
+        <item>嘉兴</item>
+        <item>金华</item>
+        <item>衢州</item>
+        <item>舟山</item>
+        <item>台州</item>
+        <item>丽水</item>
+        <item>旅游景点</item>
+    </string-array>
+
+    <string-array name="cityZoneHZArray">
+        <item>杭州市区</item>
+        <item>余杭区</item>
+        <item>萧山区</item>
+        <item>富阳区</item>
+        <item>建德市</item>
+        <item>临安市</item>
+        <item>桐庐县</item>
+        <item>淳安县</item>
+    </string-array>
+
+    <string-array name="cityZoneNBArray">
+        <item>宁波市区</item>
+        <item>北仑区</item>
+        <item>镇海区</item>
+        <item>鄞州区</item>
+        <item>余姚市</item>
+        <item>慈溪市</item>
+        <item>奉化市</item>
+        <item>象山县</item>
+        <item>宁海县</item>
+    </string-array>
+
+    <string-array name="cityZoneWZArray">
+        <item>温州市区</item>
+        <item>瑞安市</item>
+        <item>乐清市</item>
+        <item>洞头县</item>
+        <item>永嘉县</item>
+        <item>平阳县</item>
+        <item>苍南县</item>
+        <item>文成县</item>
+        <item>泰顺县</item>
+    </string-array>
+
+    <string-array name="cityZoneSXArray">
+        <item>越城区</item>
+        <item>柯桥区</item>
+        <item>上虞区</item>
+        <item>诸暨市</item>
+        <item>嵊州市</item>
+        <item>新昌县</item>
+    </string-array>
+
+    <string-array name="cityZoneHuZhouArray">
+        <item>湖州市区</item>
+        <item>德清县</item>
+        <item>长兴县</item>
+        <item>安吉县</item>
+    </string-array>
+
+    <string-array name="cityZoneJXArray">
+        <item>嘉兴市区</item>
+        <item>海宁市</item>
+        <item>平湖市</item>
+        <item>桐乡市</item>
+        <item>嘉善县</item>
+        <item>海盐县</item>
+    </string-array>
+
+    <string-array name="cityZoneJHArray">
+        <item>金华市区</item>
+        <item>兰溪市</item>
+        <item>东阳市</item>
+        <item>永康市</item>
+        <item>义乌市</item>
+        <item>武义县</item>
+        <item>浦江县</item>
+        <item>磐安县</item>
+    </string-array>
+
+    <string-array name="cityZoneJZArray">
+        <item>衢州市区</item>
+        <item>衢江区</item>
+        <item>江山市</item>
+        <item>常山县</item>
+        <item>开化县</item>
+        <item>龙游县</item>
+    </string-array>
+
+    <string-array name="cityZoneZSArray">
+        <item>舟山市区</item>
+        <item>定海区</item>
+        <item>普陀区</item>
+        <item>岱山县</item>
+        <item>嵊泗县</item>
+    </string-array>
+
+    <string-array name="cityZoneTZArray">
+        <item>台州市区</item>
+        <item>洪家</item>
+        <item>椒江区</item>
+        <item>黄岩区</item>
+        <item>路桥区</item>
+        <item>温岭市</item>
+        <item>临海市</item>
+        <item>玉环县</item>
+        <item>三门县</item>
+        <item>天台县</item>
+        <item>仙居县</item>
+    </string-array>
+
+    <string-array name="cityZoneLSArray">
+        <item>丽水市区</item>
+        <item>龙泉市</item>
+        <item>青田县</item>
+        <item>缙云县</item>
+        <item>遂昌县</item>
+        <item>松阳县</item>
+        <item>云和县</item>
+        <item>庆元县</item>
+        <item>景宁县</item>
+    </string-array>
+
+    <string-array name="cityZonelvyouArray">
+        <item>西湖</item>
+        <item>西溪国家湿地公园</item>
+        <item>乌镇</item>
+        <item>南浔古镇景区</item>
+        <item>西塘古镇</item>
+        <item>南湖景区</item>
+        <item>横店电影城</item>
+        <item>浙西大峡谷</item>
+        <item>天目山风景区</item>
+        <item>普陀山风景名胜区</item>
+        <item>枫泾古镇</item>
+        <item>千岛湖风景区</item>
+        <item>中南百草园</item>
+    </string-array>
+
+</resources>

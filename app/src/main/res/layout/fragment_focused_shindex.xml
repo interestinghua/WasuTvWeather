@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_width="400dp"
+    android:layout_height="276dp"
+    android:padding="25dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+
+    android:clickable="true"
+    android:focusableInTouchMode="true"
+    android:descendantFocusability="afterDescendants"
+    android:weightSum="1.0"
+    android:focusable="true"
+    android:background="@drawable/indexitem">
+    <!--android:background="@drawable/zhishuitem"-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        >
+        <ImageView
+            android:id="@+id/logo_img"
+            android:layout_width="145dp"
+            android:layout_height="105dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/shindex_15"/>
+        <TextView
+            android:id="@+id/index01_Textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@id/logo_img"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_gravity="bottom"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:textColor="@color/indexziti"
+            android:text="冷"/>
+
+        <TextView
+            android:id="@+id/index02_Textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/logo_img"
+            android:layout_below="@id/index01_Textview"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="15dp"
+            android:gravity="center"
+            android:text="穿衣指数"
+            android:textSize="24sp"
+            android:textColor="@color/indexziti01"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/index03_Textview"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="较冷建议着厚外套加毛衣等服装。"
+        android:textSize="25sp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/pmziti"
+        android:background="@color/indexbkg"/>
+</LinearLayout>
+

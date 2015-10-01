@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/unfocuslayout"
+    android:visibility="visible"
+    android:layout_width="170dp"
+    android:layout_height="305dp"
+    android:orientation="vertical"
+    android:background="@drawable/zhishuitem"
+    android:nextFocusRight="@+id/ganmaolayout"
+    android:focusableInTouchMode="true"
+    android:focusable="true"
+    >
+    <ImageView
+        android:id="@+id/zhishuimg"
+        android:layout_width="170dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/chuanyi"/>
+    <TextView
+        android:id="@+id/zhishuTxtview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:textSize="@dimen/wasuindextext_size"
+        android:text="@string/index01"/>
+    <TextView
+        android:id="@+id/zhishuContentTxtview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textSize="@dimen/wasuindextext_size2"
+        android:text="舒适"/>
+
+</LinearLayout>

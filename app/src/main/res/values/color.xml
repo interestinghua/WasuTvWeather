@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ziti">#bebdc5</color>
+    <color name="ziti0">#ffffff</color>
+    <color name="ziti1">#afe3ff</color>
+    <color name="ziti2">#d7d9e3</color>
+    <color name="ziti3">#ced5e4</color>
+
+    <color name="ziti4">#2f304c</color>
+
+    <color name="tf01">#0655ac</color>
+    <color name="tf02">#222554</color>
+    <color name="tf03">#0a89fb</color>
+    <color name="tfstroken">#075cae</color>
+
+    <color name="tf04">#ffcd31</color>
+    <color name="tf05">#fd9217</color>
+    <color name="tf06">#ffffc9</color>
+    <color name="tf07">#23f3ef</color>
+
+    <color name="wasu01">#e4e4e4</color>
+    <color name="wasu02">#2b4a73</color>
+    <color name="wasu03">#2f4f79</color>
+
+    <color name="wumaibkg">#0e3965</color>
+    <color name="wumaiziti">#83bdff</color>
+    <color name="pmziti">#ffffff</color>
+    <color name="gaosuid">#83bdff</color>
+
+    <color name="wasuselect">#5d95d4</color>
+    <color name="wasuselectziti01">#0f5691</color>
+    <color name="wasuselectziti02">#3b464d</color>
+
+    <color name="taifengbkg">#6f6f6f</color>
+    <color name="taifengdivider">#9b9b9b</color>
+
+    <color name="selectbkg">#dfe4eb</color>
+    <color name="topbkg">#639fdd</color>
+
+    <color name="indexbkg">#3d839c</color>
+    <color name="indexziti">#e3e7e8</color>
+    <color name="indexziti01">#d0d4d7</color>
+
+    <color name="divider01">#7992aa</color>
+
+</resources>

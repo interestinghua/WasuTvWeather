@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:gravity="center_vertical|left"
+    android:paddingLeft="8dp"
+    android:textColor="@color/ziti1"
+    android:textSize="@dimen/bottom_textsize3"
+    android:singleLine="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="旅游景点"
+    android:ellipsize="marquee" />

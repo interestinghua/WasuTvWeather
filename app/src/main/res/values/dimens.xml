@@ -1,0 +1,59 @@
+<resources>
+    <dimen name="bottom_text_topmargin">84dp</dimen>
+    <dimen name="bottom_text_leftmargin">50dp</dimen>
+    <dimen name="bottom_textsize">25sp</dimen>
+
+    <dimen name="bottom_text_topmargin1">60dp</dimen>
+    <dimen name="bottom_text_leftmargin1">50dp</dimen>
+    <dimen name="bottom_textsize1">25sp</dimen>
+    <dimen name="bottom_textsize2">40sp</dimen>
+    <dimen name="bottom_textsize3">35sp</dimen>
+
+    <dimen name="wendu_textsize">26sp</dimen>
+    <dimen name="jiangyu_textsize">20sp</dimen>
+    <dimen name="riqi_textsize">19sp</dimen>
+
+    <dimen name="left_wendu_textsize">60sp</dimen>
+    <dimen name="left_tianqi_textsize">45sp</dimen>
+    <dimen name="left_feng_textsize">45sp</dimen>
+    <dimen name="taifeng_top_textsize1">24sp</dimen>
+
+    <dimen name="bottom_imageWidth">153dp</dimen>
+    <dimen name="bottom_imageHeight">115dp</dimen>
+
+    <dimen name="bottom_smallImageWidth">50dp</dimen>
+    <dimen name="bottom_smallImageHeight">50dp</dimen>
+    <dimen name="bottom_smallImagemarginLeft">15dp</dimen>
+
+    <dimen name="tp29Width">117dp</dimen>
+    <dimen name="tp29Height">29dp</dimen>
+
+    <dimen name="img1Width">250dp</dimen>
+    <dimen name="img1Height">178dp</dimen>
+
+    <dimen name="imgWeaWidth">95dp</dimen>
+    <dimen name="imgWeaHeight">95dp</dimen>
+
+    <dimen name="buttonWidth">161dp</dimen>
+    <dimen name="buttonHeight">52dp</dimen>
+
+    <dimen name="indexTextsize">23sp</dimen>
+    <dimen name="index2Textsize">20sp</dimen>
+
+    <dimen name="dividerHeight">180dp</dimen>
+    <dimen name="dividerTop">35dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="img_position_margintop">65dp</dimen>
+    <dimen name="img_position_marginright">60dp</dimen>
+
+    <dimen name="datatext_size">26sp</dimen>
+    <dimen name="wasuindextext_size">26sp</dimen>
+    <dimen name="wasuindextext_size2">36sp</dimen>
+    <dimen name="wumaitext_size">40sp</dimen>
+    <dimen name="selecttext_size">25sp</dimen>
+
+</resources>

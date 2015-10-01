@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.lbs.weatherdemo.activity.fragment.WuMaiFragment">
+    <GridView
+        android:id="@+id/wumaiGridview"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:paddingTop="20dp"
+        android:paddingLeft="10dp"
+        android:gravity="center"
+       >
+    </GridView>
+</LinearLayout>
